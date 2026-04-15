@@ -41,12 +41,13 @@ Example Input (easy.txt)
 090050200
 
 ## Algorithms
-
-| Algorithm         | Description |
-|------------------|-------------|
-| Backtracking     | Recursively assigns values and backtracks on failure |
-| Forward Checking | Eliminates invalid values from neighboring cells |
-| AC-3             | Enforces arc consistency to reduce domains |
+________________________________________________________________________________
+| Algorithm         | Description                                              |
+|___________________|__________________________________________________________|
+| Backtracking      | Recursively assigns values and backtracks on failure     |
+| Forward Checking  | Eliminates invalid values from neighboring cells         |
+| AC-3              | Enforces arc consistency to reduce domains               |
+|___________________|__________________________________________________________|
 
 Output
 Prints solved Sudoku grid
